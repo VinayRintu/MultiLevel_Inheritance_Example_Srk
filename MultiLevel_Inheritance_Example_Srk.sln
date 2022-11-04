@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLevel_Inheritance_Example_Srk", "MultiLevel_Inheritance_Example_Srk\MultiLevel_Inheritance_Example_Srk.csproj", "{A22DBBCD-FA72-48C8-9143-66A15963986A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22DBBCD-FA72-48C8-9143-66A15963986A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22DBBCD-FA72-48C8-9143-66A15963986A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22DBBCD-FA72-48C8-9143-66A15963986A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22DBBCD-FA72-48C8-9143-66A15963986A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4823A43A-8262-43AC-8AA5-1E51DB474E38}
+	EndGlobalSection
+EndGlobal
